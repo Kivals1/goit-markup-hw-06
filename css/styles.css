@@ -866,6 +866,7 @@ img {
     justify-content: center;
 }
 
+
 .form-btn {
     min-width: 200px;
     padding: 10px 55px;
@@ -891,6 +892,7 @@ img {
 }
 
 .form-title {
+    margin-left: 93px;
     margin-bottom: 20px;
     font-weight: 700;
     font-size: 14px;
@@ -898,17 +900,16 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--prime-white);
+    
 }
 
 .form-wrp {
     display: flex;
-    align-items: center;
     gap: 12px;
-    
+    margin-left: 93px;
+   
 }
-.footer-form{
-    
-}
+
 .footer-email {
     padding: 16px;
     min-width: 358px;
