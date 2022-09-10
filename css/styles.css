@@ -818,11 +818,14 @@ img {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-    margin-left: 8px;
+   
+}
+.checkbox-text{
+    padding-left: 8px;
 }
 
 .checkbox-icon {
-    margin-right: 8px;
+   
     display: inline-block;
     width: 16px;
     height: 15px;
@@ -870,7 +873,9 @@ img {
     justify-content: center;
 }
 
-
+.footer-form{
+    margin-left: 93px;
+}
 .form-btn {
     min-width: 200px;
     padding: 10px 55px;
@@ -896,7 +901,7 @@ img {
 }
 
 .form-title {
-    margin-left: 93px;
+   
     margin-bottom: 20px;
     font-weight: 700;
     font-size: 14px;
@@ -910,7 +915,7 @@ img {
 .form-wrp {
     display: flex;
     gap: 12px;
-    margin-left: 93px;
+ 
    
 }
 
